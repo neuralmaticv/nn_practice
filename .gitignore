@@ -33,6 +33,7 @@ ipython_config.py
 # Ignore all local history of files
 .history
 .ionide
-./micrograd/
+/micrograd/
+.vscode/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebooks
